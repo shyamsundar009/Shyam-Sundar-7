@@ -1,12 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Suspicious Event Detection of Cargo Vessels Based on AIS Data"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'This paper highlights the critical need for monitoring cargo ship vessels to mitigate supply chain disruptions, proposing a statistical approach based on time difference and speed over the ground to set threshold limits for efficient surveillance.'
+date: 2023-05-29 
+venue: 'Springer'
+# paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: 'Radhakrishnan, H.K., Sundar, S., Bharath, R., Ramanarayanan, C.P. (2023). &quot; Suspicious Event Detection of Cargo Vessels Based on AIS Data  &quot;'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Cargo ship vessels have been widely used in the global trade market. Disruptions or failure of the cargo ship vessel report can considerably impact the supply chain in global trade. Thus, it is considered to have a timely intervention and monitoring of the ship vessels to get the status of the vessels. This paper discusses the idealogy of the statistical way of analyzing the ship vessel data based on the time difference and the speed over the ground. Monitoring the cargo ships all time is not feasible because of a high number of instances. The proposed approach results in the statistical threshold limits reducing the cases we must pay attention to the surveillance of the cargo ship vessels.
+
+1. [Radhakrishnan, H. K., Sundar, S., Bharath, R., & Ramanarayanan, C. P. (2023). Suspicious Event Detection of Cargo Vessels Based on AIS Data. In N. Sharma, A. Goje, A. Chakrabarti, & A. M. Bruckstein (Eds.), Data Management, Analytics and Innovation (pp. 91–99). Springer Nature Singapore.](https://link.springer.com/chapter/10.1007/978-981-99-1414-2_8)
