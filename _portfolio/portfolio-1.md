@@ -6,7 +6,7 @@ collection: portfolio
 
 
 Demo Video
-<video width="500" height="300" poster="/images/dubai2.jpg" controls>
+<video poster="/images/dubai2.jpg" controls>
   <source src="https://github.com/Shyam-Sundar-7/coupon_Q-A/assets/101181076/f5e5c22b-89fc-4e57-b9e8-d3aeecb9afe6" type="video/mp4">
 </video> 
 
