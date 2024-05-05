@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 Investigated and enhanced the **Automatic Identification System** of cargo vessels for **anomaly detection** and **path prediction**.
-</br>
+
 
 **Technical stack Used in the Project** - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width ="16" height="100%"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width ="16" height="100%"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width ="16" height="100%"/>
 

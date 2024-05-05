@@ -2,7 +2,7 @@
 title: "Suspicious Event Detection of Cargo Vessels Based on AIS Data"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper highlights the critical need for monitoring cargo ship vessels to mitigate supply chain disruptions, proposing a statistical approach based on time difference and speed over the ground to set threshold limits for efficient surveillance.<br/><img src='/images/publications.jpg'>'
+excerpt: 'This paper highlights the critical need for monitoring cargo ship vessels to mitigate supply chain disruptions, proposing a statistical approach based on time difference and speed over the ground to set threshold limits for efficient surveillance. <br/><img src='/images/publications.jpg' style='max-width:100%;height:auto;display:block;margin:auto;' alt='Publications'>'
 date: 2023-05-29 
 venue: 'Springer'
 # paperurl: 'http://academicpages.github.io/files/paper1.pdf'

@@ -5,7 +5,6 @@ collection: portfolio
 ---
 
 Developed a robust hate speech detection algorithm aimed at classifying speech as normal or blocked to facilitate content filtration.
-</br>
 
 **Technical stack Used in the Project** - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width ="16" height="100%"/>  <img src="https://avatars.githubusercontent.com/u/58386951?s=200&v=4" width ="16" height="100%">   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width ="16" height="100%" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width ="16" height="100%" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width ="16" height="100%" />
 

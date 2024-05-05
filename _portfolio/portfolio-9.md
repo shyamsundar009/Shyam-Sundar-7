@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 Implemented a **federated learning** algorithm as a **security** and **privacy-preserving** approach to training machine learning models.
-</br>
+
 
 **Technical stack Used in the Project** - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width ="16" height="100%"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width ="16" height="100%"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width ="16" height="100%"/>
 

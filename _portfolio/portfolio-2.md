@@ -14,7 +14,7 @@ Developed an innovative **Q&A system** for e-commerce platforms, specializing in
     <source src="https://github.com/Shyam-Sundar-7/coupon_Q-A/assets/101181076/f5e5c22b-89fc-4e57-b9e8-d3aeecb9afe6" type="video/mp4">
   </video>
 </div>
-</br>
+<br/>
 
 **Technical stack Used in the Project** - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width ="16" height="100%"/> <img src='/images/streamlit.png' width="16" height="100%"> <img src="/images/langchain.png" width="16" height="100%"> <img src="/images/openai-svgrepo-com.svg" width="16" height="100%">  
 

@@ -13,7 +13,8 @@ Developed an AI model for extracting metadata from various document formats, inc
     <source src="https://github.com/Shyam-Sundar-7/Document_ext/assets/101181076/b7c3dc7f-da64-4e54-a158-2bbdddca0a3d" type="video/mp4">
   </video>
 </div>
-</br>
+<br/>
+<br/>
 
 **Technical stack Used in the Project** - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width ="16" height="100%"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width ="16" height="100%"/> <img src='/images/streamlit.png' width="16" height="100%"> <img src="/images/openai-svgrepo-com.svg" width="16" height="100%">          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="16" height="100%">
           

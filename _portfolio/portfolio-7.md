@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 Conducted a comprehensive analysis of **Pet Mind** data, a **US-based retailer** of pet products, with the goal of boosting sales through increased repeat purchases of everyday pet products.
-</br>
+
 
 **Technical stack Used in the Project** - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width ="16" height="100%"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width ="16" height="100%" />
 

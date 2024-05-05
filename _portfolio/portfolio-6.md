@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 Conducted an extensive investigation of a **Milling machine** to proactively identify and prevent machine failures, focusing on enhancing operational reliability.
-</br>
+
 
 **Technical stack Used in the Project** - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width ="16" height="100%" />
 

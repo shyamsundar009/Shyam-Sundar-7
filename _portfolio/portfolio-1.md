@@ -12,7 +12,7 @@ Developed a cutting-edge system for authenticating handwritten signatures, aimed
     <source src="https://github.com/Shyam-Sundar-7/signature-verification-similarity/assets/101181076/7119939f-3512-4d8b-a9fb-d91f11b80a3f" type="video/mp4">
   </video>
 </div>
-</br>
+<br/>
 
 **Technical stack Used in the Project** - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width ="22" height="100%"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width ="22" height="100%"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width ="22" height="100%"/> <img src="https://avatars.githubusercontent.com/u/58386951?s=200&v=4" width ="22" height="100%"> <img src='/images/streamlit.png' width="22" height="100%">
 
