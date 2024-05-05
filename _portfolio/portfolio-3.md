@@ -4,14 +4,18 @@ excerpt: "Developed an AI model for extracting metadata from various document fo
 collection: portfolio
 ---
 
-Demo Video:
+Developed an AI model for extracting metadata from various document formats, including images (PNG, JPG) and documents (DOC), with a focus on Table of Contents extraction.
+
+**Demo Video :**
+
 <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0;">
   <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" poster="/images/dubai2.jpg" controls>
     <source src="https://github.com/Shyam-Sundar-7/Document_ext/assets/101181076/b7c3dc7f-da64-4e54-a158-2bbdddca0a3d" type="video/mp4">
   </video>
 </div>
+</br>
 
-Skills - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width ="16" height="100%"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width ="16" height="100%"/> <img src='/images/streamlit.png' width="16" height="100%"> <img src="/images/openai-svgrepo-com.svg" width="16" height="100%">          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="16" height="100%">
+**Technical stack Used in the Project** - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width ="16" height="100%"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width ="16" height="100%"/> <img src='/images/streamlit.png' width="16" height="100%"> <img src="/images/openai-svgrepo-com.svg" width="16" height="100%">          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="16" height="100%">
           
 
 
@@ -22,4 +26,4 @@ Skills - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/pyt
 
 
 
-The Github code is [here](https://github.com/Shyam-Sundar-7/Document_ext)
+The **Github code** is [here](https://github.com/Shyam-Sundar-7/Document_ext)
