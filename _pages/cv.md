@@ -9,17 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+🎓 Education
 ======
-* **M.Tech. in Modelling and Simulation, DIAT - Pune, 2023**
-* **B.Tech. in Chemical Engineering, NIT - Trichy, 2021**
+* M.Tech. in Modelling and Simulation, DIAT - Pune, 2023
+* B.Tech. in Chemical Engineering, NIT - Trichy, 2021
 
-Work experience
+👨‍💼 Work experience
 ======
-* **USEReady** 2024: ***Machine Learning Intern***
+* ***USEReady*** 2024: ***Machine Learning Intern***
   * Building a RAG application in Azure DataBricks.
 
-Skills
+💻 Skills
 ======
 
 | Languages 📚       | Frameworks 🛠️         | Tools/Platform 💻    |
@@ -32,7 +32,7 @@ Skills
 |                  |                       | Docker              |
 
 
-Certifications:
+📜 Certifications:
 ===
 
 - [Certified Associate Data Analyst (Datacamp) 2023](https://www.datacamp.com/certificate/DAA0017955149813)
@@ -43,14 +43,14 @@ Certifications:
 - [SQL [Advanced] - Hackerank](https://www.hackerrank.com/certificates/967bd11e74ce)
 - [Software Engineer Intern - Hackerank](https://www.hackerrank.com/certificates/48ec9d20483d)
 
-Publications
+📚 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 
-Portfolio
+🚀 Portfolio
 ======
   <ul>{% for post in site.portfolio reversed %}
     {% include archive-single-cv.html %}
