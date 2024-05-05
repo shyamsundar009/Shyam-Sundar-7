@@ -1,6 +1,6 @@
 ---
 title: "Handwritten Signature Authenticity Verification System April 2024:"
-excerpt: "Developed a cutting-edge system for authenticating handwritten signatures, aimed at revolutionizing signature verification processes and bolstering security measures.<br/><img src='/images/handwritten.jpeg' style='max-width: 500px; max-height: 300px; width: auto; height: auto; display: block; float: left;' alt='handwritten'>"
+excerpt: "Developed a cutting-edge system for authenticating handwritten signatures, aimed at revolutionizing signature verification processes and bolstering security measures.<br/><img src='/images/handwritten.jpeg' style='max-width: 500px; max-height: 300px; width: auto; height: auto; float: left;' alt='handwritten'>"
 collection: portfolio
 ---
 
