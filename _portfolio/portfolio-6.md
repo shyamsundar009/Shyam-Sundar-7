@@ -1,6 +1,6 @@
 ---
 title: "Machine Failure Prediction September 2023"
-excerpt: "Conducted an extensive investigation of a **Milling machine** to proactively identify and prevent machine failures, focusing on enhancing operational reliability. <br/><img src='/images/500x300.png'>"
+excerpt: "Conducted an extensive investigation of a **Milling machine** to proactively identify and prevent machine failures, focusing on enhancing operational reliability. <br/><img src='/images/ml.jpeg' style='max-width: 500px; max-height: 300px; width: auto; height: auto; display: block; margin: auto;' alt='handwritten'>"
 collection: portfolio
 ---
 

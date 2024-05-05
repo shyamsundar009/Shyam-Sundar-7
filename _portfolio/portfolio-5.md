@@ -1,6 +1,6 @@
 ---
 title: "PeopleCare Insurance Prediction October 2023"
-excerpt: "Analyzed **PeopleCare's** expansion into vehicle insurance through the implementation of a predictive model for more **effective customer targeting**. <br/><img src='/images/500x300.png'>"
+excerpt: "Analyzed **PeopleCare's** expansion into vehicle insurance through the implementation of a predictive model for more **effective customer targeting**.<br/><img src='/images/people.jpeg' style='max-width: 500px; max-height: 300px; width: auto; height: auto; display: block; margin: auto;' alt='handwritten'>"
 collection: portfolio
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Hate Speech Prediction October 2023"
-excerpt: "Developed a robust hate speech detection algorithm aimed at classifying speech as normal or blocked to facilitate content filtration. <br/><img src='/images/500x300.png'>"
+excerpt: "Developed a robust hate speech detection algorithm aimed at classifying speech as normal or blocked to facilitate content filtration. <br/><img src='/images/hate.jpeg' style='max-width: 500px; max-height: 300px; width: auto; height: auto; display: block; margin: auto;' alt='handwritten'>"
 collection: portfolio
 ---
 

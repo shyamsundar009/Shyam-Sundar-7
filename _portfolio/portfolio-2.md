@@ -11,7 +11,7 @@ Developed an innovative **Q&A system** for e-commerce platforms, specializing in
 **Demo Video :**
 
 <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0;">
-  <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" poster="/images/llm.jpg" controls>
+  <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" poster="/images/llm.jpeg" controls>
     <source src="https://github.com/Shyam-Sundar-7/coupon_Q-A/assets/101181076/f5e5c22b-89fc-4e57-b9e8-d3aeecb9afe6" type="video/mp4">
   </video>
 </div>

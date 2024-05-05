@@ -1,6 +1,6 @@
 ---
 title: "Pet Mind EDA February 2023"
-excerpt: "Conducted a comprehensive analysis of **Pet Mind** data, a **US-based retailer** of pet products, with the goal of boosting sales through increased repeat purchases of everyday pet products.<br/><img src='/images/500x300.png'>"
+excerpt: "Conducted a comprehensive analysis of **Pet Mind** data, a **US-based retailer** of pet products, with the goal of boosting sales through increased repeat purchases of everyday pet products.<br/><img src='/images/pet.jpeg' style='max-width: 500px; max-height: 300px; width: auto; height: auto; display: block; margin: auto;' alt='handwritten'>"
 collection: portfolio
 ---
 

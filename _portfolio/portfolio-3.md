@@ -1,6 +1,6 @@
 ---
 title: "Document Extraction Named Entity Recognition March 2024:"
-excerpt: "Developed an AI model for extracting metadata from various document formats, including images (PNG, JPG) and documents (DOC), with a focus on Table of Contents extraction.<br/><img src='/images/doc_ext.jfif'>"
+excerpt: "Developed an AI model for extracting metadata from various document formats, including images (PNG, JPG) and documents (DOC), with a focus on Table of Contents extraction.<br/><img src='/images/doc_ext.jfif' style='max-width: 500px; max-height: 300px; width: auto; height: auto; display: block; margin: auto;' alt='handwritten'>"
 collection: portfolio
 ---
 

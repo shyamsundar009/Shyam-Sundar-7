@@ -1,6 +1,6 @@
 ---
 title: "Data Driven Model for Anomaly Detection and Path Prediction July 2022 - April 2023"
-excerpt: "Investigated and enhanced the Automatic Identification System of cargo vessels for anomaly detection and path prediction. <br/><img src='/images/500x300.png'>"
+excerpt: "Investigated and enhanced the Automatic Identification System of cargo vessels for anomaly detection and path prediction.<br/><img src='/images/data.png' style='max-width: 500px; max-height: 300px; width: auto; height: auto; display: block; margin: auto;' alt='handwritten'>"
 collection: portfolio
 ---
 
