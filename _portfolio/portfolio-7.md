@@ -1,6 +1,6 @@
 ---
 title: "Federated Learning on Multiclass Classification June 2022"
-excerpt: "Implemented a federated learning algorithm as a security and privacy-preserving approach to training machine learning models..<br/><img src='/images/500x300.png'>"
+excerpt: "Implemented a federated learning algorithm as a security and privacy-preserving approach to training machine learning models.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
