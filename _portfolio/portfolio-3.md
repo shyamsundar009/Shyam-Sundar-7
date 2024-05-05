@@ -14,7 +14,6 @@ Developed an AI model for extracting metadata from various document formats, inc
   </video>
 </div>
 <br/>
-<br/>
 
 **Technical stack Used in the Project** - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width ="16" height="100%"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width ="16" height="100%"/> <img src='/images/streamlit.png' width="16" height="100%"> <img src="/images/openai-svgrepo-com.svg" width="16" height="100%">          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="16" height="100%">
           
