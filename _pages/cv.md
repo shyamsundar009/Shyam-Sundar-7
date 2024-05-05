@@ -17,9 +17,7 @@ Education
 Work experience
 ======
 * USEReady 2024: Machine Learning Intern
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * Building a RAG application in Azure DataBricks.
 
 
 Skills

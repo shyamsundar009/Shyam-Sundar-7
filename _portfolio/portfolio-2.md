@@ -1,14 +1,15 @@
 ---
-title: "PeopleCare Insurance Prediction October 2023"
-excerpt: "Analyzed **PeopleCare's** expansion into vehicle insurance through the implementation of a predictive model for more **effective customer targeting**. <br/><img src='/images/500x300.png'>"
+title: "Hate Speech Prediction October 2023"
+excerpt: "Developed a robust hate speech detection algorithm aimed at classifying speech as normal or blocked to facilitate content filtration. <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-Skills - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width ="16" height="100%"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width ="16" height="100%" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width ="16" height="100%" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width ="16" height="100%" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width ="16" height="100%" />
+Skills -  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width ="16" height="100%"/>  <img src="https://avatars.githubusercontent.com/u/58386951?s=200&v=4" width ="16" height="100%">   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width ="16" height="100%" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width ="16" height="100%" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width ="16" height="100%" />
 
-- Thoroughly examined customer behavior and other relevant features through a process of data visualization and data cleaning. This ensured the availability of accurate and high-quality data for the modeling task.
-- Achieved an impressive prediction accuracy of 80% by harnessing the robust capabilities of the LightGBM algorithm, optimizing its performance through hyperparameter tuning.
-- Streamlined the entire model deployment process using Flask and Docker, facilitating model delivery on the Azure Container App platform, optimizing operations and enhancing scalability.
 
-The Github code is [here](https://github.com/Shyam-Sundar-7/PeopleCare)
+  - Utilized the **OxAISH-AL-LLM/wiki_toxic** dataset from Hugging Face for model training, taking advantage of a pre-existing **BERT** model. Fine-tuned the last layer and added an additional output layer with two neurons for classification.
+  - Delivered outstanding results with an exceptional accuracy of **91.95%**, a testament to the rigorous training and evaluation processes involved.
+  - Implemented model deployment through **Flask** and **Docker**, ensuring scalability and ease of integration for content filtration solutions.
+
+The Github code is [here](https://github.com/Shyam-Sundar-7/Hate-Speech-recognition)
 
