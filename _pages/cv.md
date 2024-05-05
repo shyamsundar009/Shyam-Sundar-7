@@ -17,25 +17,23 @@ Education
 Work experience
 ======
 * USEReady 2024: Machine Learning Intern
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * Building a RAG application in Databricks
 
 
 Skills
 ======
 
-* Languages
+* Languages 📚
   * Python
   * SQL (Postgres)
   * Matlab
   * Latex
-* Frameworks: 
+* Frameworks 🛠️
   * Pytorch
   * Tensorflow
   * Flask
   * Pytorch Lightning
-* Tools/Platform:
+* Tools/Platform 💻
   * Tableau
   * Power Bi
   * Microsoft Azure
