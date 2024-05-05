@@ -1,13 +1,15 @@
 ---
-title: "Machine Failure Prediction September 2023"
-excerpt: "Conducted an extensive investigation of a **Milling machine** to proactively identify and prevent machine failures, focusing on enhancing operational reliability. <br/><img src='/images/500x300.png'>"
+title: "Hate Speech Prediction October 2023"
+excerpt: "Developed a robust hate speech detection algorithm aimed at classifying speech as normal or blocked to facilitate content filtration. <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-Skills - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width ="16" height="100%" />
+Skills -  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width ="16" height="100%"/>  <img src="https://avatars.githubusercontent.com/u/58386951?s=200&v=4" width ="16" height="100%">   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width ="16" height="100%" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width ="16" height="100%" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width ="16" height="100%" />
 
-- Analyzed the dataset comprising **10,000** data points, featuring **14** distinct machine-specific features, to identify potential failures and optimize machine performance.
-- Leveraged a diverse set of machine learning algorithms, culminating in an impressive **97\%** recall rate for predicting machine failures. This achievement was made possible through the strategic application of **logistic regression** and addressing class imbalance with the **SMOTE** approach.
-- Skillfully managed in **Azure Designer**, within Azure Machine Learning Workspaces, showcasing the capacity to construct machine learning pipelines for in-depth data analysis and predictive modeling.
 
-The Github code is [here](https://github.com/Shyam-Sundar-7/Machine-Failure-Prediction)
+  - Utilized the **OxAISH-AL-LLM/wiki_toxic** dataset from Hugging Face for model training, taking advantage of a pre-existing **BERT** model. Fine-tuned the last layer and added an additional output layer with two neurons for classification.
+  - Delivered outstanding results with an exceptional accuracy of **91.95%**, a testament to the rigorous training and evaluation processes involved.
+  - Implemented model deployment through **Flask** and **Docker**, ensuring scalability and ease of integration for content filtration solutions.
+
+The Github code is [here](https://github.com/Shyam-Sundar-7/Hate-Speech-recognition)
+

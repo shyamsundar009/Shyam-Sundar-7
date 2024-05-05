@@ -1,21 +1,31 @@
 ---
-title: "LLM-Powered Coupon Recommender  November 2023"
-excerpt: "Developed an innovative Q&A system for e-commerce platforms, specializing in personalized coupon and offer recommendations using **OpenAI's large language models (LLMs)**. <br/><img src='/images/500x300.png'>"
+title: "Handwritten Signature Authenticity Verification System April 2024:"
+excerpt: "Developed a cutting-edge system for authenticating handwritten signatures, aimed at revolutionizing signature verification processes and bolstering security measures.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-
-Demo Video
-
+Demo Video:
 <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0;">
   <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" poster="/images/dubai2.jpg" controls>
-    <source src="https://github.com/Shyam-Sundar-7/coupon_Q-A/assets/101181076/f5e5c22b-89fc-4e57-b9e8-d3aeecb9afe6" type="video/mp4">
+    <source src="https://github.com/Shyam-Sundar-7/signature-verification-similarity/assets/101181076/7119939f-3512-4d8b-a9fb-d91f11b80a3f" type="video/mp4">
   </video>
 </div>
-Skills - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width ="16" height="100%"/> <img src='/images/streamlit.png' width="16" height="100%"> <img src="/images/langchain.png" width="16" height="100%"> <img src="/images/openai-svgrepo-com.svg" width="16" height="100%">  
 
-- Implemented a **Streamlit**-based user interface designed for seamless interaction, enabling users to query and receive relevant offers instantly. This approach significantly enhanced user experience and engagement on e-commerce sites.
-- Utilized a custom-built dataset, structured in a CSV file, to simulate real-world e-commerce scenarios. This dataset was integral in giving knoweldge based responce by incorporating **Langchain**.
-- Integrated **FAISS (Facebook AI Similarity Search)** to optimize the recommendation process. By using vector database technology, the system could swiftly match user queries with the most relevant offers, thereby reducing screen time and streamlining decision-making.
+Skills - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width ="16" height="100%"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width ="16" height="100%"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width ="16" height="100%"/> <img src="https://avatars.githubusercontent.com/u/58386951?s=200&v=4" width ="16" height="100%"> <img src='/images/streamlit.png' width="16" height="100%">
 
-The Github code is [here](https://github.com/Shyam-Sundar-7/coupon_Q-A)
+
+
+- Utilized the renowned CEDAR dataset, encompassing signatures from **55** individuals written in Latin script, comprising **24** genuine and **24** forged signatures per person, totaling **2,640** signature samples.
+- Engineered two distinct PyTorch models:
+  - **SiasemeNetwork1**: Employed Binary Cross Entropy as the loss function, achieving exceptional accuracy rates:
+    - Train Acc: 98.59%
+    - Val Acc: 98.08%
+    - Test Acc: 98.11%
+  - **SiameseNetwork2**: Leveraged Contrastive Loss for enhanced model optimization, with satisfactory accuracy metrics:
+    - Train Acc: 65.07%
+    - Val Acc: 64.88%
+    - Test Acc: 65.00%
+- Seamlessly integrated the models into a **Streamlit** application, providing an intuitive interface for signature authenticity verification, thus ensuring user-friendly interaction and streamlined deployment.
+
+
+The Github code is [here](https://github.com/Shyam-Sundar-7/signature-verification-similarity)
