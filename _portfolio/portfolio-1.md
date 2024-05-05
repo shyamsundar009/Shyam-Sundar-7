@@ -1,6 +1,5 @@
 ---
-title: "LLM-Powered Coupon Recommender | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width ="16" height="100%"/> | <img src="assets\img\streamlit.png" width="16" height="100%"> | <img src="assets\img\langchain.png" width="16" height="100%"> | <img src="assets\img\openai-svgrepo-com.svg" width="16" height="100%"> | November 2023
-"
+title: "LLM-Powered Coupon Recommender | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width ="16" height="100%"/> | <img src="assets\img\streamlit.png" width="16" height="100%"> | <img src="assets\img\langchain.png" width="16" height="100%"> | <img src="assets\img\openai-svgrepo-com.svg" width="16" height="100%"> | November 2023"
 excerpt: "Developed an innovative Q&A system for e-commerce platforms, specializing in personalized coupon and offer recommendations using **OpenAI's large language models (LLMs)**. 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
