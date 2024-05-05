@@ -4,7 +4,7 @@ excerpt: "Developed an innovative Q&A system for e-commerce platforms, specializ
 collection: portfolio
 ---
 <video width="320" height="240" controls>
-  <source src="https://github.com/Shyam-Sundar-7/coupon_Q-A/raw/assets/101181076/f5e5c22b-89fc-4e57-b9e8-d3aeecb9afe6/VIDEO_FILE_NAME.mp4" type="video/mp4">
+  <source src="https://github.com/Shyam-Sundar-7/coupon_Q-A/assets/101181076/f5e5c22b-89fc-4e57-b9e8-d3aeecb9afe6" type="video/mp4">
 
 Skills - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width ="16" height="100%"/> <img src='/images/streamlit.png' width="16" height="100%"> <img src="/images/langchain.png" width="16" height="100%"> <img src="/images/openai-svgrepo-com.svg" width="16" height="100%">  
 
