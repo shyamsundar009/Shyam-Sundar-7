@@ -1,10 +1,13 @@
 ---
 title: "LLM-Powered Coupon Recommender  November 2023"
-excerpt: "Developed an innovative Q&A system for e-commerce platforms, specializing in personalized coupon and offer recommendations using **OpenAI's large language models (LLMs)**. <br/> "
+excerpt: "Developed an innovative Q&A system for e-commerce platforms, specializing in personalized coupon and offer recommendations using **OpenAI's large language models (LLMs)**. <br/> <video width="500" height="300" poster="/images/dubai2.jpg" controls>
+  <source src="https://github.com/Shyam-Sundar-7/coupon_Q-A/assets/101181076/f5e5c22b-89fc-4e57-b9e8-d3aeecb9afe6" type="video/mp4">
+</video> "
 collection: portfolio
 ---
-<video width="320" height="240" controls>
+<video width="500" height="300" poster="/images/dubai2.jpg" controls>
   <source src="https://github.com/Shyam-Sundar-7/coupon_Q-A/assets/101181076/f5e5c22b-89fc-4e57-b9e8-d3aeecb9afe6" type="video/mp4">
+</video> 
 
 Skills - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width ="16" height="100%"/> <img src='/images/streamlit.png' width="16" height="100%"> <img src="/images/langchain.png" width="16" height="100%"> <img src="/images/openai-svgrepo-com.svg" width="16" height="100%">  
 
