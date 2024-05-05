@@ -23,17 +23,17 @@ Work experience
 Skills
 ======
 
-* Languages
+* Languages 📚:
   * Python
   * SQL (Postgres)
   * Matlab
   * Latex
-* Frameworks: 
+* Frameworks 🛠️: 
   * Pytorch
   * Tensorflow
   * Flask
   * Pytorch Lightning
-* Tools/Platform:
+* Tools/Platform 💻:
   * Tableau
   * Power Bi
   * Microsoft Azure

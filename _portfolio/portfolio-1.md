@@ -1,6 +1,7 @@
 ---
 title: "LLM-Powered Coupon Recommender  November 2023"
-excerpt: "Developed an innovative Q&A system for e-commerce platforms, specializing in personalized coupon and offer recommendations using **OpenAI's large language models (LLMs)**. <br/><img src='/images/500x300.png'>"
+excerpt: "Developed an innovative Q&A system for e-commerce platforms, specializing in personalized coupon and offer recommendations using **OpenAI's large language models (LLMs)**. <br/>[![How to Tie a Tie](https://img.youtube.com/vi/5LYAEz777AU/0.jpg)](https://www.youtube.com/watch?v=5LYAEz777AU)
+"
 collection: portfolio
 ---
 
