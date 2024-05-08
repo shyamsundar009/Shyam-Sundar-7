@@ -8,25 +8,5 @@ author_profile: true
 
 If the embedded PDF below does not load, you can <u><a href="/files/Shyam_Sundar_Single_Page_Resume.pdf">download it here.</a></u>
 <br/>
-<style>
-  .embed-container {
-    position: relative;
-    padding-bottom: 56.25%; /* 16:9 aspect ratio */
-    height: 0;
-    overflow: hidden;
-  }
 
-  .embed-container iframe,
-  .embed-container object,
-  .embed-container embed {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-  }
-</style>
-
-<div class="embed-container">
-  <embed src="/files/Shyam_Sundar_Single_Page_Resume.pdf" type="application/pdf" />
-</div>
+<embed src="/files/Shyam Sundar Single Page Resume.pdf" type="application/pdf" width="100%" />

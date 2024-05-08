@@ -52,7 +52,7 @@ redirect_from:
 
 🚀 Portfolio
 ======
-  <ul>{% for post in site.portfolio reversed %}
+  <ul>{% for post in site.portfolio %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
