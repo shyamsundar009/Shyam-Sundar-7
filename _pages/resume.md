@@ -7,8 +7,7 @@ author_profile: true
 
 
 If the embedded PDF below does not load, you can <u><a href="files\shyam_sundar_resume.pdf">download it here.
-Last updated resume on 27 May,2024.
-</a></u>
+Last updated resume on 27 May,2024.</a></u>
 <br/>
 <style>
   .embed-container {
