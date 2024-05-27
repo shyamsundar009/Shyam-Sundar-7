@@ -6,7 +6,9 @@ author_profile: true
 ---
 
 
-If the embedded PDF below does not load, you can <u><a href="/files/Shyam_Sundar_Single_Page_Resume.pdf">download it here.</a></u>
+If the embedded PDF below does not load, you can <u><a href="files\shyam_sundar_resume.pdf">download it here.
+Last updated resume on 27 May,2024.
+</a></u>
 <br/>
 <style>
   .embed-container {
@@ -28,5 +30,5 @@ If the embedded PDF below does not load, you can <u><a href="/files/Shyam_Sundar
 </style>
 
 <div class="embed-container">
-  <embed src="/files/Shyam_Sundar_Single_Page_Resume.pdf" type="application/pdf" />
+  <embed src="files\shyam_sundar_resume.pdf" type="application/pdf" />
 </div>

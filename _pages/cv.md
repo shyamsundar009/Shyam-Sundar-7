@@ -17,7 +17,25 @@ redirect_from:
 👨‍💼 Work experience
 ======
 * ***USEReady*** 2024: ***Machine Learning Intern***
-  * Building a RAG application in Azure DataBricks.
+## Experience
+
+### USEReady
+**Machine Learning Engineer Intern**  
+*Bengaluru, Karnataka*  
+*April 2024 -- Present*
+## Experience
+
+### USEReady
+**Machine Learning Engineer Intern**  
+*Bengaluru, Karnataka*  
+*April 2024 -- Present*
+
+- Developed a **custom RAG chatbot** that leverages **multi-query generation** and **keyword extraction**, integrates with **Azure**, **AWS**, and **local storage**, and features an interactive **Streamlit** user interface.
+[ Links for [Code](https://github.com/shyamsundar009/RAG-with-different-source) &  [Demo](https://github.com/shyamsundar009/RAG-with-different-source/assets/167984593/79eeff6c-23dc-4a69-987d-6f36f4934fbe)]
+          
+
+
+- Engineered a **Retrieval-Augmented Generation** incorporating **human feedback** by labelling responses, fine-tuning the **cross-encoder**, and integrating it into a **Streamlit** interface for enhanced user interaction. [Code](https://github.com/Shyam-Sundar-7/Rag-with-Human-feedback)
 
 💻 Skills
 ======
