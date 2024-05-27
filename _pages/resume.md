@@ -5,6 +5,7 @@ permalink: /Resume/
 author_profile: true
 ---
 
+Last Updated resume - 27th May,2024
 
 If the embedded PDF below does not load, you can <u><a href="/files/shyam_sundar_resume.pdf">download it here.</a></u>
 <br/>
