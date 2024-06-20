@@ -17,11 +17,14 @@ redirect_from:
 👨‍💼 Work experience
 ======
 * ***USEReady*** 2024: ***Machine Learning Intern***
-
-    - Developed a **custom RAG chatbot** that leverages **multi-query generation** and **keyword extraction**, integrates with **Azure**, **AWS**, and **local storage**, and features an interactive **Streamlit** user interface.
-           [Links for [Code](https://github.com/shyamsundar009/RAG-with-different-source) &  [Demo](https://github.com/shyamsundar009/RAG-with-different-source/assets/167984593/79eeff6c-23dc-4a69-987d-6f36f4934fbe)]
         
-     * Engineered a **Retrieval-Augmented Generation** incorporating **human feedback** by labelling responses, fine-tuning the **cross-encoder**, and integrating it into a **Streamlit** interface for enhanced user interaction. [Code](https://github.com/Shyam-Sundar-7/Rag-with-Human-feedback)
+
+     - **Implemented a custom RAG chatbot** with *multi-query generation, keyword extraction* using **RAPTOR** chunking, integrating with **Azure**, **AWS**, and **local storage**, and an interactive **Streamlit** interface featuring **user authentication** and session-based history deletion for enhanced privacy. [Link for [Code](https://github.com/shyamsundar009/raptor) and [Demo](https://github.com/shyamsundar009/raptor/assets/167984593/f1ac0bd0-ab13-4ce3-a9b5-eaa0090de9bb)]
+
+    - **Engineered a RAG** incorporating **human feedback** by labelling responses, fine-tuning the **cross-encoder**, and integrating it into a **Streamlit** interface for enhanced user interaction. [Link for [code](https://github.com/Shyam-Sundar-7/Rag-with-Human-feedback)]
+
+    - Applied various **RAG** methods such as **CRAG**, **Self-RAG**, **Adaptive RAG** and **RAFT** methods and **evaluation of RAG application** using **Langsmith**
+
 
 💻 Skills
 ======
