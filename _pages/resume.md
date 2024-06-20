@@ -5,9 +5,9 @@ permalink: /Resume/
 author_profile: true
 ---
 
-Last Updated resume - 27th May,2024
+Last Updated resume - 20th June,2024
 
-If the embedded PDF below does not load, you can <u><a href="/files/shyam_sundar_resume.pdf">download it here.</a></u>
+If the embedded PDF below does not load, you can <u><a href="files\Shyam_Sundar_Single_Page_Resume.pdf">download it here.</a></u>
 <br/>
 <style>
   .embed-container {
@@ -29,5 +29,5 @@ If the embedded PDF below does not load, you can <u><a href="/files/shyam_sundar
 </style>
 
 <div class="embed-container">
-  <embed src="/files/shyam_sundar_resume.pdf" type="application/pdf" />
+  <embed src="files\Shyam_Sundar_Single_Page_Resume.pdf" type="application/pdf" />
 </div>
