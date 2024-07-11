@@ -23,7 +23,9 @@ redirect_from:
 
     - **Engineered a RAG** incorporating **human feedback** by labelling responses, fine-tuning the **cross-encoder**, and integrating it into a **Streamlit** interface for enhanced user interaction. [Link for [code](https://github.com/Shyam-Sundar-7/Rag-with-Human-feedback)]
 
-    - Applied various **RAG** methods such as **CRAG**, **Self-RAG**, **Adaptive RAG** and **RAFT** methods and **evaluation of RAG application** using **Langsmith**
+    - Applied various **RAG** methods such as **CRAG**, **Self-RAG**, **Adaptive RAG** and **RAFT** methods and **evaluation of RAG application** using **Langsmith**.
+
+    - Built End-to-End production ready **RAG** application in **Databricks** using **Langchain** and **Mosaic AI Vector Search**.
 
 
 💻 Skills
@@ -35,13 +37,16 @@ redirect_from:
 | SQL (Postgres)   | Tensorflow            | Power Bi            |
 | Matlab           | Flask                 | Microsoft Azure     |
 | Latex            | Pytorch Lightning     | Git                 |
-|                  |                       | Jupyter Notebook    |
-|                  |                       | Docker              |
-
+|                  | Langchain             | Jupyter Notebook    |
+|                  | Langraph              | Docker              |
+|                  | CrewAI                | Databricks          |
+|                  | Streamlit             | MLFlow              |
+|                  | Langraph              |            |
 
 📜 Certifications:
 ===
 
+- [Microsoft Certified: Azure Data Scientist Associate 2024-2025](https://learn.microsoft.com/api/credentials/share/en-us/shyamsundar-4525/8EF992923DED8206?sharingId)
 - [Certified Associate Data Analyst (Datacamp) 2023](https://www.datacamp.com/certificate/DAA0017955149813)
 - [Management Consulting Mentorship (Growth school) 2023](https://api.growthschool.io/certificate/818d42d3-2ad2-4fc3-b36c-73b74b176cbd)
 - [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization (Coursera) 2020](https://www.coursera.org/account/accomplishments/verify/H9MCR2DN3S3W)
