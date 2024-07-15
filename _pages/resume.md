@@ -12,13 +12,11 @@ If the embedded PDF below does not load, you can <u><a href="/files/Shyam_Sundar
 <style>
   .embed-container {
     position: relative;
-    padding-bottom: 56.25%; /* 16:9 aspect ratio */
+    padding-bottom: 100vh; /* Full height */
     height: 0;
     overflow: hidden;
   }
 
-  .embed-container iframe,
-  .embed-container object,
   .embed-container embed {
     position: absolute;
     top: 0;
