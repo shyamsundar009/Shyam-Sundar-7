@@ -1,5 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on NLP and MMM<br>👯 I’m looking to collaborate on applying MLOPS Principles in data science roles<br>🌱 I’m currently learning Time series forecasting and LLM's.<br>
 
 
 ## 🌐 Socials:
