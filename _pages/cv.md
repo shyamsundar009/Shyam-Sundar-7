@@ -19,13 +19,14 @@ redirect_from:
 * ***USEReady*** 2024: ***Machine Learning Intern***
         
 
-     - **Implemented a custom RAG chatbot** with *multi-query generation, keyword extraction* using **RAPTOR** chunking, integrating with **Azure**, **AWS**, and **local storage**, and an interactive **Streamlit** interface featuring **user authentication** and session-based history deletion for enhanced privacy. [Link for [Code](https://github.com/shyamsundar009/raptor) and [Demo](https://github.com/shyamsundar009/raptor/assets/167984593/f1ac0bd0-ab13-4ce3-a9b5-eaa0090de9bb)]
+     - **Implemented a custom RAG chatbot** with *multi-query generation, keyword extraction* using **RAPTOR** chunking, integrating with **Azure**, **AWS**, and **local storage**, and an interactive **Streamlit** interface featuring **user authentication** and session-based history deletion for enhanced privacy. 
 
-    - **Engineered a RAG** incorporating **human feedback** by labelling responses, fine-tuning the **cross-encoder**, and integrating it into a **Streamlit** interface for enhanced user interaction. [Link for [code](https://github.com/Shyam-Sundar-7/Rag-with-Human-feedback)]
+    - **Engineered a RAG** incorporating **human feedback** by labelling responses, fine-tuning the **cross-encoder**, and integrating it into a **Streamlit** interface for enhanced user interaction. 
 
     - Applied various **RAG** methods such as **CRAG**, **Self-RAG**, **Adaptive RAG** and **RAFT** methods and **evaluation of RAG application** using **Langsmith**.
 
-    - Built End-to-End production ready **RAG** application in **Databricks** using **Langchain** and **Mosaic AI Vector Search**.
+    -Built End-to-End production ready **RAG** application in **Databricks** using **Langchain** and **Mosaic AI Vector Search** and in
+**Snowflake** using **Snowflake Arctic** and **Snowflake Cortex Analyst**.
 
 
 💻 Skills
@@ -41,7 +42,7 @@ redirect_from:
 |                  | Langraph              | Docker              |
 |                  | CrewAI                | Databricks          |
 |                  | Streamlit             | MLFlow              |
-|                  | Langraph              |            |
+|                  | Langraph              | Snowflake           |
 
 📜 Certifications:
 ===
