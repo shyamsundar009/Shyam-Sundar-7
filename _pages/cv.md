@@ -16,7 +16,7 @@ redirect_from:
 
 👨‍💼 Work experience
 ======
-* ***USEReady*** 2024: ***Machine Learning Intern***
+* ***USEReady*** 2024: ***Machine Learning Engineer***
         
 
      - **Implemented a custom RAG chatbot** with *multi-query generation, keyword extraction* using **RAPTOR** chunking, integrating with **Azure**, **AWS**, and **local storage**, and an interactive **Streamlit** interface featuring **user authentication** and session-based history deletion for enhanced privacy. 
@@ -25,7 +25,7 @@ redirect_from:
 
     - Applied various **RAG** methods such as **CRAG**, **Self-RAG**, **Adaptive RAG** and **RAFT** methods and **evaluation of RAG application** using **Langsmith**.
 
-    -Built End-to-End production ready **RAG** application in **Databricks** using **Langchain** and **Mosaic AI Vector Search** and in
+    - Built End-to-End production ready **RAG** application in **Databricks** using **Langchain** and **Mosaic AI Vector Search** and in
 **Snowflake** using **Snowflake Arctic** and **Snowflake Cortex Analyst**.
 
 
